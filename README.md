@@ -8,6 +8,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   
