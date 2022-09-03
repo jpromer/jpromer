@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100"/>
 </div>
 
 👋 Hi, I’m Juan Pablo Romero Laverde, I’m a systems engineer passionate about software development, I love to learn, teach and help people, develop high-impact projects and focus all my efforts on achieving results, I also like to know the new technologies, trends, and methodologies that are being used in the software development industry that allow me to generate great things at the social and business level.
